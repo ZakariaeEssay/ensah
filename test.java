@@ -15,8 +15,12 @@ public class test {
 
         //TODO...
 
+        String name = "Zakariae essaiydy";
+
+
         //bye to the user
-        System.out.println("bye!!!");
+        System.out.println("bye "+name);
+        
 
     }
 }
